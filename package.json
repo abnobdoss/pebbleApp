@@ -1,0 +1,24 @@
+{
+    "author": "abnob@tamu.edu",
+    "dependencies": {},
+    "keywords": [],
+    "name": "fitness-rpg-beta",
+    "pebble": {
+        "displayName": "Fitness RPG Beta",
+        "enableMultiJS": true,
+        "messageKeys": {
+            "message": 1,
+            "status": 0
+        },
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "18d7b4e2-e6fa-4474-bfee-4a2cf1cf00a5",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
